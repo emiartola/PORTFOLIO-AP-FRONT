@@ -1,0 +1,13 @@
+#logoAP {
+    width: 150px;
+}
+#logoINTI{
+    width: 150px;
+}
+#logoGITHUB,
+#logoLINK
+{
+    float:inline-end;
+    height: 50px;
+    width: 50px;
+}
