@@ -8,7 +8,7 @@ import { ExperienciaComponent } from './components/experiencia/experiencia.compo
 import { HomeComponent } from './components/home/home.component';
 
 const routes: Routes = [
-  {path: 'home', component: HomeComponent},
+  {path: '', component: HomeComponent},
   {path: 'acerca', component: AcercaDeComponent},
   {path: 'aptitudes', component: AptitudesComponent},
   {path: 'experiencia', component: ExperienciaComponent},
