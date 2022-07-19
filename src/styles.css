@@ -1,11 +1,10 @@
 #hero {
     width: 100%;
-    height: 70vh;
+    height: 50vh;
     background: url(https://th.bing.com/th/id/OIP.rFwhKk0lwYSt-JAi0QDNlQHaEK?pid=ImgDet&rs=1) top center turquoise;
     background-size: cover;
     padding: 0 15px;
-    color: aliceblue;
-    text-decoration: solid;
+    color: rgb(178, 199, 218);
     min-height: 200px;
     max-height: 300px;
 }
@@ -16,4 +15,10 @@
     border-radius: 50%;
     margin-top: -100px;
     /* text-align: left !important; */
+}
+
+.iconoRedondo {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
 }
